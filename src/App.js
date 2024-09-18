@@ -1,5 +1,5 @@
-import React from 'react';
-import './index.scss';
+import React from 'react'
+import './index.scss'
 
 function App() {
   return (
@@ -13,9 +13,9 @@ function App() {
           </svg>
           <img src="https://media2.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" />
         </div>
-      </div> */}
+      </div> s*/}
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
