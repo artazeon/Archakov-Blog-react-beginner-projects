@@ -13,6 +13,7 @@ function App() {
   const [searchValue, setSearchValue] = React.useState('')
 
   React.useEffect(() => {
+    //https://reqres.in/api/users
     fetch('https://reqres.in/api/users')
       .then((res) => res.json())
       .then((json) => {
